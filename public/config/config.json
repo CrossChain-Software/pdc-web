@@ -1,5 +1,5 @@
 {
-  "CONTRACT_ADDRESS": "0x9bE0CcFd6229DaDc94D17357E3e7A28904FaC0cb",
+  "CONTRACT_ADDRESS": "0xCD0425e18704EcF00AdEE96566C28199c7aa0275",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x9bE0CcFd6229DaDc94D17357E3e7A28904FaC0cb",
   "NETWORK": {
     "NAME": "Ethereum",
@@ -9,10 +9,10 @@
   "NFT_NAME": "Poker Dogs Club NFT",
   "SYMBOL": "PDC",
   "MAX_SUPPLY": 7777,
-  "WEI_COST": 70000000000000000,
-  "DISPLAY_COST": 0.07,
+  "WEI_COST": 69000000000000000,
+  "DISPLAY_COST": 0.069,
   "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/poker-dogs-club-v3",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/poker-dogs-club-v4",
   "SHOW_BACKGROUND": true
 }
